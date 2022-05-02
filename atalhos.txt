@@ -1,0 +1,8 @@
+ctrl + k + ctrl d -- autoidentação
+
+ctor tab tab - construtor
+
+ctrl . -- abre as sugestões de arrumar o erro
+
+//f9 - breakpoint 
+//f10 - avança a linha
